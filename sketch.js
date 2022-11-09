@@ -3,7 +3,7 @@ let index=1;//Interface value
 let balls = [];//storing particles in star trail
 let mouse=0;//The factor value of the length of the star trail  particles' speed(slow/fast) depend on this+mouseped
 let mousePed=5; //The speed of change of the star trail length factor value
-let boxes = [];//array for storing rect
+let boxs = [];//array for storing rect
 let s;//Line thickness of rectangle
 let stars = [];//storing stars
 let speed=20;//Star movement speed
